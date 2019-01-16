@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creatures>
+    <creature name="amazon" type="monster" looktype="137" lookhead="113" lookbody="120" looklegs="95" lookfeet="115"/>
+    <creature name="ancient scarab" type="monster" looktype="79" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="apocalypse" type="monster" looktype="35" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="ashmunrah" type="monster" looktype="91" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="assassin" type="monster" looktype="129" lookhead="95" lookbody="95" looklegs="95" lookfeet="95"/>
+    <creature name="badger" type="monster" looktype="105" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="bandit" type="monster" looktype="129" lookhead="58" lookbody="40" looklegs="24" lookfeet="95"/>
+    <creature name="banshee" type="monster" looktype="78" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="bat" type="monster" looktype="122" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="bazir" type="monster" looktype="35" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="bear" type="monster" looktype="16" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="behemoth" type="monster" looktype="55" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="beholder" type="monster" looktype="17" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="black knight" type="monster" looktype="131" lookhead="95" lookbody="95" looklegs="95" lookfeet="95"/>
+    <creature name="black sheep" type="monster" looktype="13" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="blue butterfly" type="monster" looktype="227" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="blue djinn" type="monster" looktype="80" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="bonebeast" type="monster" looktype="101" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="bug" type="monster" looktype="45" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="carniphila" type="monster" looktype="120" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="cave rat" type="monster" looktype="56" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="centipede" type="monster" looktype="124" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="chicken" type="monster" looktype="111" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="cobra" type="monster" looktype="81" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="crab" type="monster" looktype="112" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="crocodile" type="monster" looktype="119" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="crypt shambler" type="monster" looktype="100" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="cyclops" type="monster" looktype="22" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dark monk" type="monster" looktype="225" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="deathslicer" type="monster" looktype="102" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="deer" type="monster" looktype="31" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="demodras" type="monster" looktype="204" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="demon" type="monster" looktype="35" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="demon skeleton" type="monster" looktype="37" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dharalion" type="monster" looktype="203" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dipthrah" type="monster" looktype="87" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dog" type="monster" looktype="32" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dragon" type="monster" looktype="34" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dragon lord" type="monster" looktype="39" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dwarf" type="monster" looktype="69" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dwarf geomancer" type="monster" looktype="66" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dwarf guard" type="monster" looktype="70" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dwarf soldier" type="monster" looktype="71" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dworc fleshhunter" type="monster" looktype="215" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dworc venomsniper" type="monster" looktype="216" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="dworc voodoomaster" type="monster" looktype="214" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="efreet" type="monster" looktype="103" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="elder beholder" type="monster" looktype="108" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="elephant" type="monster" looktype="211" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="elf" type="monster" looktype="62" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="elf arcanist" type="monster" looktype="63" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="elf scout" type="monster" looktype="64" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="fernfang" type="monster" looktype="206" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="ferumbras" type="monster" looktype="130" lookhead="57" lookbody="113" looklegs="95" lookfeet="113"/>
+    <creature name="fire devil" type="monster" looktype="40" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="fire elemental" type="monster" looktype="49" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="flamethrower" type="monster" lookitem="0"/>
+    <creature name="flamingo" type="monster" looktype="212" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="frost troll" type="monster" looktype="53" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="gamemaster" type="monster" looktype="75" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="gargoyle" type="monster" looktype="95" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="gazer" type="monster" looktype="109" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="general murius" type="monster" looktype="207" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="ghost" type="monster" looktype="48" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="ghoul" type="monster" looktype="18" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="giant spider" type="monster" looktype="38" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="goblin" type="monster" looktype="61" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="green djinn" type="monster" looktype="51" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="grorlam" type="monster" looktype="205" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="hero" type="monster" looktype="73" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="hunter" type="monster" looktype="129" lookhead="95" lookbody="116" looklegs="120" lookfeet="115"/>
+    <creature name="hyaena" type="monster" looktype="94" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="hydra" type="monster" looktype="121" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="illusion" type="monster" looktype="107" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="infernatil" type="monster" looktype="35" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="kongra" type="monster" looktype="116" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="larva" type="monster" looktype="82" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="lich" type="monster" looktype="99" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="lion" type="monster" looktype="41" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="lizard sentinel" type="monster" looktype="114" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="lizard snakecharmer" type="monster" looktype="115" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="lizard templar" type="monster" looktype="113" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="magicthrower" type="monster" lookitem="0"/>
+    <creature name="mahrdis" type="monster" looktype="86" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="marid" type="monster" looktype="104" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="merlkin" type="monster" looktype="117" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="mimic" type="monster" looktype="92" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="minotaur" type="monster" looktype="25" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="minotaur archer" type="monster" looktype="24" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="minotaur guard" type="monster" looktype="29" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="minotaur mage" type="monster" looktype="23" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="monk" type="monster" looktype="57" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="morgaroth" type="monster" looktype="35" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="morguthis" type="monster" looktype="84" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="mummy" type="monster" looktype="65" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="necromancer" type="monster" looktype="9" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="necropharus" type="monster" looktype="209" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="omruc" type="monster" looktype="90" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orc" type="monster" looktype="5" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orc berserker" type="monster" looktype="8" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orc leader" type="monster" looktype="59" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orc rider" type="monster" looktype="4" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orc shaman" type="monster" looktype="6" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orc spearman" type="monster" looktype="50" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orc warlord" type="monster" looktype="2" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orc warrior" type="monster" looktype="7" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="orshabaal" type="monster" looktype="201" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="panda" type="monster" looktype="123" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="parrot" type="monster" looktype="217" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="pig" type="monster" looktype="60" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="plaguethrower" type="monster" lookitem="0"/>
+    <creature name="poison spider" type="monster" looktype="36" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="polar bear" type="monster" looktype="42" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="priestess" type="monster" looktype="58" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="purple butterfly" type="monster" looktype="213" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="rabbit" type="monster" looktype="74" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="rahemos" type="monster" looktype="88" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="rat" type="monster" looktype="21" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="red butterfly" type="monster" looktype="228" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="rotworm" type="monster" looktype="26" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="scarab" type="monster" looktype="83" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="scorpion" type="monster" looktype="43" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="serpent spawn" type="monster" looktype="220" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="sheep" type="monster" looktype="14" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="shredderthrower" type="monster" lookitem="0"/>
+    <creature name="sibang" type="monster" looktype="118" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="skeleton" type="monster" looktype="33" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="skunk" type="monster" looktype="106" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="slime" type="monster" looktype="19" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="smuggler" type="monster" looktype="134" lookhead="95" lookbody="0" looklegs="113" lookfeet="115"/>
+    <creature name="snake" type="monster" looktype="28" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="spider" type="monster" looktype="30" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="spit nettle" type="monster" looktype="221" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="stalker" type="monster" looktype="128" lookhead="97" lookbody="116" looklegs="95" lookfeet="95"/>
+    <creature name="stone golem" type="monster" looktype="67" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="swamp troll" type="monster" looktype="76" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="tarantula" type="monster" looktype="219" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="terror bird" type="monster" looktype="218" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="thalas" type="monster" looktype="89" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="the evil eye" type="monster" looktype="210" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="the halloween hare" type="monster" looktype="74" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="the horned fox" type="monster" looktype="202" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="the old widow" type="monster" looktype="208" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="tiger" type="monster" looktype="125" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="troll" type="monster" looktype="15" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="valkyrie" type="monster" looktype="139" lookhead="113" lookbody="38" looklegs="76" lookfeet="96"/>
+    <creature name="vampire" type="monster" looktype="68" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="vashresamun" type="monster" looktype="85" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="war wolf" type="monster" looktype="3" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="warlock" type="monster" looktype="130" lookhead="0" lookbody="52" looklegs="128" lookfeet="95"/>
+    <creature name="wasp" type="monster" looktype="44" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="wild warrior" type="monster" looktype="131" lookhead="38" lookbody="38" looklegs="38" lookfeet="38"/>
+    <creature name="winter wolf" type="monster" looktype="52" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="witch" type="monster" looktype="54" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="wolf" type="monster" looktype="27" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="yellow butterfly" type="monster" looktype="10" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+    <creature name="yeti" type="monster" looktype="110" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
+</creatures>

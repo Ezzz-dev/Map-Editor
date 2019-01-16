@@ -1,0 +1,17 @@
+<client_config>
+
+	<otbs>
+		<otb client="7.70" version="3" id="3"/>
+	</otbs>
+
+	<clients>
+
+		<client name="7.70" otb="7.70" visible="true" data_directory="770">
+			<otbm version="3"/>
+			<extensions from="7.70" to="7.70"/>
+			<data format="7.55" dat="0x439D5A33" spr="0x439852BE"/>
+		</client>
+		
+	</clients>
+
+</client_config>
